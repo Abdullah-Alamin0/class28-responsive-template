@@ -1,0 +1,48 @@
+/* Background Section CSS Start */
+.backgroud-section{
+    background-color: #f9f9ff;
+}
+.default-btn{
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #8490ff;
+    border: none;
+}
+/* Background Section CSS End */
+/* Ratting Section css Start */
+.ratting-section{
+    background-color: #8490ff;
+}
+/* Ratting Section css End */
+/* Service Section CSS Start */
+.service-section{
+    background-color: #f9f9ff;
+}
+/* Service Section CSS End */
+/* About Section CSS Start */
+.about-item {
+    margin-top: 90px;
+}
+.about-item .card img {
+    width: 100px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
+/* About Section CSS End */
+/* Contact Section CSS Start */
+.contact-section{
+    background-color: #f9f9ff;
+}
+.contact-form .card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+    padding: 40px;
+}
+.c-btn{
+    color: #fff;
+    background-color: #17a2b8; 
+}
+.contact-text{
+    margin-top: 12%;
+}
+/* Contact Section CSS End */
